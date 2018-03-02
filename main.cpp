@@ -1,7 +1,6 @@
 #include <iostream>
-
+/// A CLI application
 int main (int argc, char *argv[])
-
 {
     std::cout << "Hello";
     if (argc>1)
